@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-# demo
-=======
-# my-robot
->>>>>>> creat
+npm install
+npm run dev
